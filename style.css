@@ -55,11 +55,13 @@ body {
     letter-spacing: 0.15rem;
     padding: 10px 10px;
     border:none;
+    cursor: pointer;
 
 }
 .submit-button:hover {
     background-color: white;
     color: hsl(25, 97%, 53%) ;
+    cursor: pointer;
 }
 
 img #star{
@@ -113,10 +115,12 @@ p {
 .rating:hover {
 background-color: hsl(216, 12%, 54%);
 color:white;
+cursor: pointer;
 }
 .rating:active {
     background-color: hsl(25, 97%, 53%);
     color:white;
+    cursor: pointer;
 }
 
 .rating-buttons {
